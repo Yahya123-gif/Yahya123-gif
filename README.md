@@ -39,18 +39,9 @@ me = Yahia()
 print(me)  # → I hack, therefore I am.
 ```
 
----
-##  What I Actually Do
-
-| Focus | Reality |
-|---|---|
-| 💻 "Build web apps" | break them… then fix them better 🔥 |
-| 🔐 "Learn web security" | test JWT, IDOR, and find weird bugs |
-| 🧪 "Practice CTFs" | stuck → research → understand → improve |
-| ⚙️ "Backend development" | debug for hours… then it's one missing `;` 😭 |
 
 ---
-## 🛠️ My Arsenal
+##  My Arsenal
 
 <div align="center">
 
@@ -77,7 +68,7 @@ print(me)  # → I hack, therefore I am.
 
 ---
 
-## 📡 current status
+##  current status
 
 ```bash
 $ whoami
@@ -101,7 +92,7 @@ Size: 0B  Used: 0B  Avail: 0B  Use%: 100%
 
 ---
 
-## 🏁 ctf philosophy
+##  ctf philosophy
 
 > **Stage 1:** "this looks easy"  
 > **Stage 2:** "ok interesting"  
