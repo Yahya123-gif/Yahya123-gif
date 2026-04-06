@@ -9,23 +9,23 @@
  ╚═════╝ ╚═╝     ╚═════╝ ╚══════╝╚═╝  ╚═╝  ╚═╝   
 ```
 
-# hey, i'm yahia 👾
-### cybersec student 🐧
+# hey, i'm yahia 
+### cybersec student 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Breaking+things+for+fun+%F0%9F%94%A5;Fixing+them+%22later%22+%E2%8F%B3;rm+-rf+%2F+%E2%80%94+just+kidding+%F0%9F%98%B0;404%3A+social+life+not+found)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Breaking+things+for+fun;Fixing+them+%22later%22+%E2%8F%B3;rm+-rf+%2F+%E2%80%94+just+kidding+%F0%9F%98%B0;404%3A+social+life+not+found)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 who am i?
+##  who am i?
 
 ```python
 class Yahia:
     def __init__(self):
         self.name        = "Yahia"
         self.role        = "SITCN Student "
-        self.os          = "Arch Linux"  # yes i use arch btw
+        self.os          = "Arch Linux"  
         self.username    = "ofdeat"
         self.hobbies     = ["CTF", "breaking web apps", "fixing what i break", "sleeping"]
         self.languages   = ["Python", "PHP", "Bash", "French", "Arabic", "Broken English"]
@@ -40,30 +40,38 @@ print(me)  # → I hack, therefore I am.
 ```
 
 ---
+##  What I Actually Do
 
-## ⚔️ what i actually do
-
-| activity | reality |
+| Focus | Reality |
 |---|---|
-| 🌐 "web security research" | cry when every SSRF bypass gets blocked |
-| 🏁 "do CTFs" | spend 6 hours on a challenge, google the solution, feel shame |
-| ☁️ "cloud computing" | pray CloudSim doesn't segfault again |
-| 🐧 "use Arch Linux" | reinstall kernel modules at 3am |
+| 💻 "Build web apps" | break them… then fix them better 🔥 |
+| 🔐 "Learn web security" | test JWT, IDOR, and find weird bugs |
+| 🧪 "Practice CTFs" | stuck → research → understand → improve |
+| ⚙️ "Backend development" | debug for hours… then it's one missing `;` 😭 |
 
 ---
-
-## 🛠️ my arsenal
+## 🛠️ My Arsenal
 
 <div align="center">
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web_Security-0A66C2?style=for-the-badge)
 
 </div>
 
@@ -106,29 +114,6 @@ Size: 0B  Used: 0B  Avail: 0B  Use%: 100%
 
 ---
 
-## 📊 github vibes
-
-<div align="center">
-
-![Yahia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofdeat&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofdeat&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-## 🤝 find me
-
-<div align="center">
-
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofdeat)
-
-</div>
-
----
 
 <div align="center">
 
@@ -136,12 +121,9 @@ Size: 0B  Used: 0B  Avail: 0B  Use%: 100%
 ╔════════════════════════════════════════════╗
 ║  "The quieter you become,                  ║
 ║   the more you are able to hear."          ║
-║                         — some hacker idk  ║
+║                                            ║
 ╚════════════════════════════════════════════╝
 ```
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ofdeat.ofdeat)
-
-*made with 🖤, too much caffeine, and zero sleep*
 
 </div>
