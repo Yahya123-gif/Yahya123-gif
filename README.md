@@ -15,30 +15,6 @@
 </div>
 
 ---
-
-##  who am i?
-
-```python
-class Yahia:
-    def __init__(self):
-        self.name        = "Yahia"
-        self.role        = "SITCN Student "
-        self.os          = "Arch Linux"  
-        self.username    = "ofdeat"
-        self.hobbies     = ["CTF", "breaking web apps", "fixing what i break", "sleeping"]
-        self.languages   = ["Python", "PHP", "Bash", "French", "Arabic", "Broken English"]
-        self.editor      = "whatever works at 2am"
-        self.coffee      = True
-
-    def __str__(self):
-        return "I hack, therefore I am."
-
-me = Yahia()
-print(me)  # → I hack, therefore I am.
-```
-
-
----
 ##  My Arsenal
 
 <div align="center">
