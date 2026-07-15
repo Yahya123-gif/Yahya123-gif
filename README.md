@@ -12,8 +12,6 @@
 # hey, i'm yahia 
 ### cybersec student 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Breaking+things+for+fun;Fixing+them+%22later%22+%E2%8F%B3;rm+-rf+%2F+%E2%80%94+just+kidding+%F0%9F%98%B0;404%3A+social+life+not+found)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -68,29 +66,6 @@ print(me)  # → I hack, therefore I am.
 
 ---
 
-##  current status
-
-```bash
-$ whoami
-ofdeat
-
-$ uptime
- 22:47:13 up 3 days, 14:22,  1 user,  load average: 4.20, 6.9, 3.14
-
-$ top processes
-  PID  NAME                    CPU%   MEM%
-  001  overthinking             99.9   87.3
-  002  htb-challenge            45.2   42.0
-  003  exam-anxiety             31.0   55.0
-  004  googling-error-messages  28.7   12.4
-  005  actually-sleeping         0.1    2.0
-
-$ df -h /social-life
-Filesystem: /dev/null
-Size: 0B  Used: 0B  Avail: 0B  Use%: 100%
-```
-
----
 
 <div align="center">
 
